@@ -1,13 +1,21 @@
-# REAREye
+<p align="center">
+  <img src="https://reareye-gh.uwu.hk/logo.svg" alt="REAREye logo" width="160" style="border-radius: 1.5rem;" />
+</p>
 
-适用于小米 17 Pro / 17 Pro Max 的背屏增强模块。
+<h1 align="center">REAREye</h1>
 
-REAREye 基于 LSPosed / Xposed，为系统框架、背屏中心和主题管理提供更细粒度的可配置能力，用来补足原厂背屏在应用放行、音乐歌词、壁纸轮播、组件模板、视频壁纸限制等方面的不足。
+<p align="center">
+  适用于小米 17 Pro / 17 Pro Max 的背屏增强模块。<br>
+  基于 LSPosed / Xposed，为系统框架、背屏中心和主题管理提供更细粒度的可配置能力。
+</p>
 
-[![GitHub release](https://img.shields.io/github/v/release/killerprojecte/REAREye?display_name=tag)](https://github.com/killerprojecte/REAREye/releases)
-[![GitHub license](https://img.shields.io/github/license/killerprojecte/REAREye)](https://github.com/killerprojecte/REAREye/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/killerprojecte/REAREye)](https://github.com/killerprojecte/REAREye/issues)
-[![Android](https://img.shields.io/badge/Android-16%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+<p align="center">
+  <a href="https://github.com/killerprojecte/REAREye/releases"><img src="https://img.shields.io/github/v/release/killerprojecte/REAREye?display_name=tag" alt="GitHub release"></a>
+  <a href="https://github.com/killerprojecte/REAREye/blob/main/LICENSE"><img src="https://img.shields.io/github/license/killerprojecte/REAREye" alt="GitHub license"></a>
+  <a href="https://github.com/killerprojecte/REAREye/issues"><img src="https://img.shields.io/github/issues/killerprojecte/REAREye" alt="GitHub issues"></a>
+  <a href="https://developer.android.com/"><img src="https://img.shields.io/badge/Android-16%2B-3DDC84?logo=android&logoColor=white" alt="Android"></a>
+  <a href="https://github.com/LSPosed/LSPosed"><img src="https://img.shields.io/badge/Framework-LSPosed%20%2F%20Xposed-5C6BC0" alt="Framework"></a>
+</p>
 
 ## 功能概览
 
